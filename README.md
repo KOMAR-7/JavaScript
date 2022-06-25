@@ -11,4 +11,4 @@ This folder contains 3 files:
 for eg. If I want to learn Windows Object in Javascript, I'll go below the html file(in code) and uncomment the script below the windows object comment.
         Then I'll open the file with the help of script number that I commented from the js_file in any of the ide. you feel comfortable.
 }
-<!---By Khan Omar--->
+console.log('By Khan Omar');
