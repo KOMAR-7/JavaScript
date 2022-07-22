@@ -24,4 +24,4 @@ important.start();
 // Comments are descriptive about the topic.
 I'll be uploading more files in the comming future
 
-document.write('By Khan Omar')
+document.write('By Khan Omar');
