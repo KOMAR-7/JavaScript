@@ -11,4 +11,17 @@ This folder contains 3 files:
 for eg. If I want to learn Windows Object in Javascript, I'll go below the html file(in code) and uncomment the script below the windows object comment.
         Then I'll open the file with the help of script number that I commented from the js_file in any of the ide. you feel comfortable.
 }
-console.log('By Khan Omar');
+
+let important = {
+	note:  "Try to understand the topic, find errors and solve it",
+	desc: "Comments are descriptive about the topic",
+	start : function (){
+	console.log('I am going to start now');
+	}
+}
+important.start();
+
+// Comments are descriptive about the topic.
+I'll be uploading more files in the comming future
+
+document.write('By Khan Omar')
